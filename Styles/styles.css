@@ -52,3 +52,19 @@ Great Tea
 /*----------------------------
 Meet Our Super Clients
 ---------------------------------*/
+/*---------------------------
+Meet Our Super Clients
+---------------------------------*/
+.clients-btn{
+    width: 139px;
+    height: 56px;
+    border-radius: 8px;
+}
+.show {
+    font-size: 16px;
+    font-weight: 700;
+    background: var(--Linear, linear-gradient(270deg, #F00 0%, #FF8938 100%));
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
